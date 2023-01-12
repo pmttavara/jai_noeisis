@@ -1,0 +1,10 @@
+.build
+.vscode
+.vs
+NoesisGUI-NativeSDK-win-3.1.6-Indie
+Noesis.lib
+Noesis.dll
+main.exe
+noesis_jai.lib
+*.pdb
+noesis_windows.jai
